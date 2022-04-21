@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu trabalho hoje com eletônica.
-- 🌱 Estudando Javascript, HTML e CSS.
+- 🌱 Estudando ReactJs, Javascript, HTML e CSS.
 
 <div>
   <a href="https://github.com/carlosoavila">
