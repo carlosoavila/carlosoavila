@@ -1,7 +1,7 @@
 <h1>IAEW!! Eu sou o Carlos Alberto <img src="https://raw.githubusercontent.com/kaueMarques//kaueMarques/master/hi.gif" width="30px"<h1>
 
 
-- 🔥 Desenvolvedor Front-End Jr
+- 🔥 Desenvolvedor Front-End
   
 - 🔭 Atualmente trabalho como técnico em eletrônica na Master Calibrações(https://mastercalibracoes.com.br/)
   
